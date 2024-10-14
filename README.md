@@ -1,6 +1,6 @@
 # credit-card-financial-dashboard
 
-##Credit card financial dashboard using PowerBI
+## Credit card financial dashboard using PowerBI
 
 This project is a Credit Card Financial Dashboard built using Power BI. The dashboard provides a comprehensive overview of credit card transactions, including metrics such as total expenditure, monthly spending trends, category-wise spending, credit card limits, and more. It is designed for personal finance tracking and analysis of credit card usage patterns.
 
@@ -18,7 +18,7 @@ Transaction Summary: Summary of transactions, including filters for time period,
 
 Debt Tracking: Tracks outstanding balances and due dates, along with payment history.
 
-Data Source
+## Data Source
 
 The dashboard uses mock data to simulate credit card transactions. The data consists of:
 
